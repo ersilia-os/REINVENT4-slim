@@ -2,6 +2,8 @@ REINVENT 4
 ==========
 
 
+This is the slim version of REINVENT4 maintained by https://github.com/ankitskvmdam for Ersilia. This version reduces the environment size for REINVENT4 by discarding all CUDA drivers that are unused by the version of REINVENT4 incorporated in Ersilia, relying solely on CPU.
+
 Description
 -----------
 
